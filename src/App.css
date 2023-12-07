@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.text{
+  border-style: solid;
+  width: 600px;
+  font-size: 25px;
+  border-width: 5px;
+  position: fixed;
+  bottom: 10px;
+  left: 400px;
+}
+
+.post{
+  position: fixed;
+  bottom: 15px;
+  right: 350px;
+  font-size: 24px;
+}
+
+.message{
+  position: relative;
+  left: 490px;
+  font-size: 30px;
+  text-align: left;
+  width: 400px;
+  height: 100px;
+  border-style: solid;
+  display:table;
+  margin:20px;
+}
+.content{
+  text-align: right;
+}
+.login{
+  position: fixed;
+  right: 15px;
+  background-color: gray;
+  padding:20px;
+}
+.date{
+  position: relative;
+  font-size: 12px;
+  top: 60px;
+  left: 135px;
+}
+.sender{
+  position: relative;
+  left: 600px;
+  font-size: 20px;
+}
